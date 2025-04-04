@@ -1,6 +1,6 @@
 ---
 description: Guidelines for managing package.json with yarn 2+ (Berry)
-globs: ["package.json"]
+globs: package.json
 alwaysApply: false
 ---
 # Package.json Management with Yarn 2+

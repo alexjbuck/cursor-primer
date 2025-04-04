@@ -1,9 +1,8 @@
 ---
 description: Guidelines for writing multi-line git commit messages in terminal commands
-type: auto_attached
-globs: ["*.sh", "*.yml", "*.yaml"]
+globs: 
+alwaysApply: false
 ---
-
 # Git Commit Message Formatting in Terminal Commands
 
 ## Context
