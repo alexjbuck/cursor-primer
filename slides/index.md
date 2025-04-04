@@ -147,41 +147,7 @@ How Cursor evolves with your project
 - 🛠️ Reduced errors
 - 📚 Growing knowledge base
 
----
-
-# Live Demo
-
-Watch Cursor learn and create new rules
-
-1. Encounter a common error
-2. Analyze the problem
-3. Create a new rule
-4. Test the improvement
-
----
-
-# Example Rule Creation
-
-```markdown
----
-description: Handle TypeScript enum type safety
-globs: ["*.ts", "*.tsx"]
-type: auto_attached
----
-
-# TypeScript Enum Best Practices
-
-## Problem
-Inconsistent enum usage leading to type errors
-
-## Solution
-Standardized enum pattern with type safety
-
-## Examples
-Before/After code samples
-```
-
----
+--- 
 
 # Getting Started
 
@@ -198,6 +164,7 @@ Before/After code samples
 - [Documentation](https://docs.cursor.com/get-started/welcome)
 - [GitHub Repository](https://github.com/getcursor/cursor)
 - [Community Forum](https://forum.cursor.com/)
+- Coming Soon - Spear AI baseline `.cursor/rules`
 
 ---
 
